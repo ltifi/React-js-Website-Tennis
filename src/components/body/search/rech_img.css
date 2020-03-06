@@ -1,0 +1,12 @@
+.rechImg{
+    flex-grow:3;
+    border:1px solid;
+    padding-left: 170px;
+    padding-right: 170px;
+}
+.liste{
+    text-align: center;   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
